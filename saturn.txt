@@ -1,0 +1,4 @@
+planet: 6
+moons: 61
+composition: hydrogen, helium
+radius: 9 Earth radii

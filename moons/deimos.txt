@@ -1,0 +1,3 @@
+planet: mars
+composition: silicate rock
+special: captured asteroid

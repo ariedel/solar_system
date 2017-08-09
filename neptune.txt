@@ -1,0 +1,5 @@
+planet: 8
+moons: 16
+composition: hydrogen, helium, methane, ammonia
+radius: 3.7 earth radii
+mass: 17 earth masses

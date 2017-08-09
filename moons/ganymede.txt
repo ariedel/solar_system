@@ -1,0 +1,4 @@
+planet:jupiter
+composition: nickel/iron, water ice
+radius: 0.3 earth radii
+special: larger volume than Mercury, has magnetic field

@@ -1,0 +1,6 @@
+planet: 7
+moons: 26
+composition: hydrogen, helium, methane, ammonia
+special: orbits at 89 degree tilt
+radius: 4 earth radii
+mass: 15 earth masses

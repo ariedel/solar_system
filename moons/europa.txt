@@ -1,0 +1,5 @@
+planet: jupiter
+composition: silicates, water ice, water
+radius: 0.8 lunar radii
+special: in 4:2:1 resonance with Ganymede:Europa:Io
+special: gigantic water ocean under ice

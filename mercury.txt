@@ -1,0 +1,6 @@
+planet: 1
+moons: 0
+composition: nickel/iron core, silicate rock exterior
+radius: 2500 km
+mass: 0.5 Earth masses
+atmosphere: none/trace

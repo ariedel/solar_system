@@ -1,0 +1,2 @@
+planet: 4
+radius: 3100 km

@@ -1,3 +1,5 @@
 planet: 4
+moons: 2
 radius: 3100 km
 mass: 0.5 Earth Radii
+composition: nickel, iron, silicate rock

@@ -1,0 +1,4 @@
+planet: Earth
+composition: silicate rock
+radius: 0.5 Earth radii
+mass: 1/80 Earth masses

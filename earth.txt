@@ -1,0 +1,6 @@
+planet: 3
+moons: 1
+composition: nickel/iron, silicates
+atmosphere: nitrogen, oxygen
+mass: 1 earth mass
+radius: 1 earth radius

@@ -1,0 +1,5 @@
+planet: 5
+moons: 66
+radius: 11 Earth radii
+mass: 316 Earth masses
+composition: hydrogen, helium

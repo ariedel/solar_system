@@ -1,2 +1,3 @@
 planet: 4
+composition: silicate rock
 origin: captured asteroid

@@ -1,0 +1,4 @@
+planet: 5
+composition: silicate rock
+special: volcanism
+special: In 4:2:1 resonance with Ganymede: Europa: Io

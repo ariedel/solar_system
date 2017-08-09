@@ -1,0 +1,6 @@
+planet: 2
+moons: 0
+composition: nickel/iron and silicate rock
+mass: 1 earth mass
+radius: 1 earth radius
+atmosphere: Nitrogen, Carbon Dioxide
